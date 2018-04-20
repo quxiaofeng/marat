@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: L'Ami du peuple
-email: jcoenep@hotmail.com
+title: Machine Learning Methods
+email: quxiaofeng@live.com
 description: >
   Journal politique impartial, <br>
   Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
@@ -22,29 +22,28 @@ description: >
 tagline: vitam impendere vero
 location: Versailles
 date: true
-baseurl: "/marat" # the subpath of your site, e.g. /blog
-url: "http://johncoene.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/methods.ml" # the subpath of your site, e.g. /blog
+url: "http://www.quxiaofeng.me" # the base hostname & protocol for your site, e.g. http://example.com
 author: Jean-Paul Marat
-google_analytics: UA-101394056-1
+google_analytics: 
 
 # SEO
 twitter:
-  username: jdatap
+  username: quxiaofeng
 
 logo: /assets/logo.png
 
-lang: fr
+lang: en
 
 facebook:
- app_id: 101766790448070
+ app_id: 
 
 social:
-  name: John Coene
+  name: Dr. QU Xiaofeng
   links:
-    - https://twitter.com/jdatap
-    - https://www.linkedin.com/in/johncoene
-    - https://plus.google.com/109009224717674019651
-    - https://github.com/JohnCoene
+    - https://twitter.com/quxiaofeng
+    - https://www.linkedin.com/in/quxiaofeng
+    - https://github.com/quxiaofeng
 
 # Build settings
 exclude: README.md
